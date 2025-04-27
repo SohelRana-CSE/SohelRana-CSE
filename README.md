@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center">Hi 👋, I'm Md. Sohel Rana</h1>
-<h3 align="center">A passionate app developer from Bangladesh.</h3> 
+<h3 align="center">A passionate 'App Developer' from Bangladesh.</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohelrana-cse&label=Profile%20views&color=0e75b6&style=flat" alt="sohelrana-cse" /> </p>
 
@@ -9,18 +9,19 @@
   
 - 🔭 I’m currently working on **Flutter.**
 
-- 🌱 I’m currently learning **App Development.**
+- 🌱 I’m currently working on **App Development.**
 
-- 💬 Ask me about **Flutter, Dart, Java, C, Android**
+- 💬 Ask me about **C, Dart, Flutter, Java, Android**
 
 - 📫 How to reach me **soheldcc18@gmail.com**
-
-- ⚡ Fun fact **I think I am funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mdsohelrana201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdsohelrana201" height="30" width="40" /></a>
+  
 <a href="https://fb.com/https://www.facebook.com/mohsohela.rana1?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mohsohela.rana1?mibextid=zbwkwl" height="30" width="40" /></a>
+  
+<a href="https://fb.com/https://www.facebook.com/mohsohela.rana1?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://join.skype.com/invite/wUDDQjcogXMn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
