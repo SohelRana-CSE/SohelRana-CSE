@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **C, Dart, Flutter, Java, Android**
 
-- 📫 How to reach me **soheldcc18@gmail.com**
+- 📫 How to reach me **sohelrana.diucse@gmail.com**
 
 
 
