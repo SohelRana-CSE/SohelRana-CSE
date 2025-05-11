@@ -42,11 +42,11 @@
 
 <!-- GitHub Stats Row -->
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohelrana-cse&show_icons=true&locale=en&layout=compact"
-       alt="Top Languages" style="margin: 10px;" />
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohelrana-cse"
        alt="GitHub Streak" style="margin: 10px;" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohelrana-cse&show_icons=true&locale=en&layout=compact"
+       alt="Top Languages" />
 </div>
 
 
