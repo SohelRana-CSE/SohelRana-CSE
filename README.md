@@ -20,9 +20,11 @@
     </ul>
   </div>
 
+<!--
   <div style="width: 50%; padding: 10px; box-sizing: border-box; text-align: right;">
     <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding" width="50%" height="auto" style="max-height: 20px; object-fit: cover;" />
   </div>
+-->
 
 </div>
 
@@ -61,7 +63,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohelrana-cse" alt="GitHub Streak" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohelrana-cse&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  
 
 </div>
 
