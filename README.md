@@ -40,12 +40,23 @@
 
 ### 📊 GitHub Stats
 
-<p>
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohelrana-cse&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<style>
+  .github-stats-row {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-top: 20px;
+  }
+  .github-stats-row img {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
 
-<p align="left">
+<div class="github-stats-row">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohelrana-cse&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohelrana-cse" alt="GitHub Streak" />
-</p>
-</p>
+</div>
+
