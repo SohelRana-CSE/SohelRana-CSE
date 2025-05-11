@@ -31,7 +31,7 @@
 
 ### 🛠️ Languages and Tools
 
-<p align="center">
+<p align="left">
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
@@ -54,7 +54,7 @@
 ### 📊 GitHub Stats
 
 <!-- GitHub Stats Row -->
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 20px; margin-left: 20px;">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px; margin-top: 20px; margin-left: 20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohelrana-cse" alt="GitHub Streak" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohelrana-cse&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
