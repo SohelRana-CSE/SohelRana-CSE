@@ -3,16 +3,19 @@
 <h1 align="center">Hi 👋, I'm Md. Sohel Rana</h1>
 <h3 align="center">A passionate App Developer from Bangladesh</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=sohelrana-cse&label=Profile%20views&color=0e75b6&style=flat" alt="sohelrana-cse" />
 </p>
 
+<div>
 <img align="right" alt="Coding" width="400" height="185" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 - 🔭 I’m currently working on **Flutter**
 - 🌱 I’m learning more about **App Development**
 - 💬 Ask me about **C, Dart, Flutter, Java, Android**
-- 📫 Reach me at **sohelrana.diucse@gmail.com**
+- 📫 Reach me at **sohelrana.diucse@gmail.com**  
+</div>
+
 
 ---
 
