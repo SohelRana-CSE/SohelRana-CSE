@@ -7,18 +7,23 @@
   <img src="https://komarev.com/ghpvc/?username=sohelrana-cse&label=Profile%20views&color=0e75b6&style=flat" alt="sohelrana-cse" />
 </p>
 
-<div>
-<img align="right" alt="Coding" width="400" height="185" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 20px; margin-top: 30px;">
 
-- 🔭 I’m currently working on **Flutter**
-- 🌱 I’m learning more about **App Development**
-- 💬 Ask me about **C, Dart, Flutter, Java, Android**
-- 📫 Reach me at **sohelrana.diucse@gmail.com**
+  <div style="flex: 1; min-width: 250px;">
+    <ul>
+      <li>🔭 I’m currently working on <strong>Flutter</strong></li>
+      <li>🌱 I’m learning more about <strong>App Development</strong></li>
+      <li>💬 Ask me about <strong>C, Dart, Flutter, Java, Android</strong></li>
+      <li>📫 Reach me at <strong>sohelrana.diucse@gmail.com</strong></li>
+    </ul>
+  </div>
 
+  <div style="flex-shrink: 0;">
+    <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding" width="400" height="185" style="object-fit: cover;" />
+  </div>
 
-
- 
 </div>
+
 
 
 ---
