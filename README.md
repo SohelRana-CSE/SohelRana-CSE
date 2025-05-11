@@ -7,8 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=sohelrana-cse&label=Profile%20views&color=0e75b6&style=flat" alt="sohelrana-cse" />
 </p>
 
----
-
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; margin-top: 30px;">
 
   <div style="width: 50%; padding: 10px; box-sizing: border-box;">
@@ -27,9 +25,6 @@
 -->
 
 </div>
-
-
-
 
 
 ---
@@ -65,6 +60,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohelrana-cse&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 
 </div>
-
-
-
