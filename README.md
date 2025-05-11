@@ -41,12 +41,13 @@
 ### 📊 GitHub Stats
 
 <!-- GitHub Stats Row -->
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohelrana-cse"
-       alt="GitHub Streak" style="margin: 10px;" />
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 20px; margin-left: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohelrana-cse" alt="GitHub Streak" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohelrana-cse&show_icons=true&locale=en&layout=compact"
-       alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohelrana-cse&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  
+
 </div>
+
 
 
