@@ -23,6 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohelrana-cse&show_icons=true&locale=en&layout=compact" alt="sohelrana-cse" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohelrana-cse&show_icons=true&locale=en" alt="sohelrana-cse" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohelrana-cse&" alt="sohelrana-cse" /></p>
