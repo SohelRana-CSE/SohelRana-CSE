@@ -7,9 +7,11 @@
   <img src="https://komarev.com/ghpvc/?username=sohelrana-cse&label=Profile%20views&color=0e75b6&style=flat" alt="sohelrana-cse" />
 </p>
 
+---
+
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; margin-top: 30px;">
 
-  <div style="width: 50%; box-sizing: border-box;">
+  <div style="width: 50%; padding: 10px; box-sizing: border-box;">
     <ul>
       <li>🔭 I’m currently working on <strong>Flutter</strong></li>
       <li>🌱 I’m learning more about <strong>App Development</strong></li>
@@ -18,15 +20,12 @@
     </ul>
   </div>
 
-  <div style="width: 50%; box-sizing: border-box; text-align: right;">
-    <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"
-         alt="Coding"
-         width="100%"
-         height="auto"
-         style="max-height: 200px; object-fit: cover; padding: 10px;" />
+  <div style="width: 50%; padding: 10px; box-sizing: border-box; text-align: right;">
+    <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding" width="100%" height="auto" style="max-height: 200px; object-fit: cover;" />
   </div>
 
 </div>
+
 
 
 
