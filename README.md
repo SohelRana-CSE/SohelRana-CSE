@@ -21,7 +21,7 @@
   </div>
 
   <div style="width: 50%; padding: 10px; box-sizing: border-box; text-align: right;">
-    <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding" width="100%" height="auto" style="max-height: 200px; object-fit: cover;" />
+    <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding" width="50%" height="auto" style="max-height: 20px; object-fit: cover;" />
   </div>
 
 </div>
