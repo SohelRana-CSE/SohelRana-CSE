@@ -29,7 +29,7 @@
 
 ---
 
-<p align="center"> ### 🛠️ Languages and Tools </p>
+<h2 align="center"> 🛠️ Languages and Tools </h2>
 
 <p align="center">
   <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
