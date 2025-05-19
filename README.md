@@ -30,9 +30,9 @@
 ---
 
 
+### 🛠️ Languages and Tools
 
-<p align="center">
-  <h2> 🛠️ Languages and Tools </h2>
+<p align="left">
   <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
   <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" width="40" height="40"/></a>
